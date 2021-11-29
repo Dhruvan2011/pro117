@@ -1,0 +1,38 @@
+#score {
+    margin-left: 100px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#timer {
+    float: right;
+    margin-right: 100px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(255, 203, 89);
+}
+
+h1 {
+    background-color: #ffeeb6;
+    color: rgb(255, 0, 119);
+    font-family: cursive;
+}
+
+#show_sketch {
+    float: right;
+}
+
+p {
+    font-family: cursive;
+    font-size: 25px;
+    color: black;
+}
+
+#sketch_to_be_drawn {
+    font-family:  monospace;
+    font-size: 25px;
+    color: red;
+}
